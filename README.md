@@ -11,7 +11,7 @@ Repository for https://projecteuler.net/ problems
 | :white_check_mark: Problem 003 | :white_large_square: Problem 028 |
 | :white_large_square: Problem 004 | :white_large_square: Problem 029 |
 | :white_large_square: Problem 005 | :white_large_square: Problem 030 |
-| :white_large_square: Problem 006 | :white_large_square: Problem 031 |
+| :white_check_mark: Problem 006 | :white_large_square: Problem 031 |
 | :white_check_mark: Problem 007 | :white_large_square: Problem 032 |
 | :white_large_square: Problem 008 | :white_large_square: Problem 033 |
 | :white_large_square: Problem 009 | :white_large_square: Problem 034 |
