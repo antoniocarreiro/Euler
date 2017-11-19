@@ -8,7 +8,7 @@ Repository for https://projecteuler.net/ problems
 | --- | --- |
 | :white_check_mark: Problem 001 | :white_large_square: Problem 026 |
 | :white_check_mark: Problem 002 | :white_large_square: Problem 027 |
-| :white_large_square: Problem 003 | :white_large_square: Problem 028 |
+| :white_check_mark: Problem 003 | :white_large_square: Problem 028 |
 | :white_large_square: Problem 004 | :white_large_square: Problem 029 |
 | :white_large_square: Problem 005 | :white_large_square: Problem 030 |
 | :white_large_square: Problem 006 | :white_large_square: Problem 031 |
