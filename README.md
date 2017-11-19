@@ -6,28 +6,28 @@ Repository for https://projecteuler.net/ problems
 
 | Problems 1-25: | Problems 26-50: |
 | --- | --- |
-| - :white_check_mark: Problem 001 | - [ ] Problem 026 |
-| - :white_check_mark: Problem 002 | - [ ] Problem 027 |
-| - [ ] Problem 003 | - [ ] Problem 028 |
-| - [ ] Problem 004 | - [ ] Problem 029 |
-| - [ ] Problem 005 | - [ ] Problem 030 |
-| - [ ] Problem 006 | - [ ] Problem 031 |
-| - :white_check_mark: Problem 007 | - [ ] Problem 032 |
-| - [ ] Problem 008 | - [ ] Problem 033 |
-| - [ ] Problem 009 | - [ ] Problem 034 |
-| - [ ] Problem 010 | - [ ] Problem 035 |
-| - [ ] Problem 011 | - [ ] Problem 036 |
-| - [ ] Problem 012 | - [ ] Problem 037 |
-| - [ ] Problem 013 | - [ ] Problem 038 |
-| - [ ] Problem 014 | - [ ] Problem 039 |
-| - [ ] Problem 015 | - [ ] Problem 040 |
-| - :white_check_mark: Problem 016 | - [ ] Problem 041 |
-| - [ ] Problem 017 | - [ ] Problem 042 |
-| - [ ] Problem 018 | - [ ] Problem 043 |
-| - [ ] Problem 019 | - [ ] Problem 044 |
-| - [ ] Problem 020 | - [ ] Problem 045 |
-| - [ ] Problem 021 | - [ ] Problem 046 |
-| - [ ] Problem 022 | - [ ] Problem 047 |
-| - [ ] Problem 023 | - :white_check_mark: Problem 048 |
-| - [ ] Problem 024 | - [ ] Problem 049 |
-| - [ ] Problem 025 | - :white_check_mark: Problem 050 |
+| :white_check_mark: Problem 001 | :white_medium_square: Problem 026 |
+| :white_check_mark: Problem 002 | :white_medium_square: Problem 027 |
+| :white_medium_square: Problem 003 | :white_medium_square: Problem 028 |
+| :white_medium_square: Problem 004 | :white_medium_square: Problem 029 |
+| :white_medium_square: Problem 005 | :white_medium_square: Problem 030 |
+| :white_medium_square: Problem 006 | :white_medium_square: Problem 031 |
+| :white_check_mark: Problem 007 | :white_medium_square: Problem 032 |
+| :white_medium_square: Problem 008 | :white_medium_square: Problem 033 |
+| :white_medium_square: Problem 009 | :white_medium_square: Problem 034 |
+| :white_medium_square: Problem 010 | :white_medium_square: Problem 035 |
+| :white_medium_square: Problem 011 | :white_medium_square: Problem 036 |
+| :white_medium_square: Problem 012 | :white_medium_square: Problem 037 |
+| :white_medium_square: Problem 013 | :white_medium_square: Problem 038 |
+| :white_medium_square: Problem 014 | :white_medium_square: Problem 039 |
+| :white_medium_square: Problem 015 | :white_medium_square: Problem 040 |
+| :white_check_mark: Problem 016 | :white_medium_square: Problem 041 |
+| :white_medium_square: Problem 017 | :white_medium_square: Problem 042 |
+| :white_medium_square: Problem 018 | :white_medium_square: Problem 043 |
+| :white_medium_square: Problem 019 | :white_medium_square: Problem 044 |
+| :white_medium_square: Problem 020 | :white_medium_square: Problem 045 |
+| :white_medium_square: Problem 021 | :white_medium_square: Problem 046 |
+| :white_medium_square: Problem 022 | :white_medium_square: Problem 047 |
+| :white_medium_square: Problem 023 | :white_check_mark: Problem 048 |
+| :white_medium_square: Problem 024 | :white_medium_square: Problem 049 |
+| :white_medium_square: Problem 025 | :white_check_mark: Problem 050 |
