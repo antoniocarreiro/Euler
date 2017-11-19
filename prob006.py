@@ -10,4 +10,5 @@ def square_powers_sum(n):
         sum += i
     pow = sum**2
     return pow
+
 print(square_powers_sum(100) - sum_quare_powers(100))
